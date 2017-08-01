@@ -1,3 +1,9 @@
+h6 {
+  background-color:rgb(0,0,153);
+}
+a {
+  color:rgb(0,0,153);
+}
 .navbar-fixed-left {
   width: 140px;
   position: fixed;
